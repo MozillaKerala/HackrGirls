@@ -65,7 +65,7 @@ section{
 }
 .landing-section-half.desc-half .title{
 	font-family: 'Josefin Slab', serif;
-	padding-top:120px;
+	padding-top:90px;
 	color:#fff;
 	font-weight:600;
 	font-size:50px;
@@ -78,11 +78,12 @@ section{
 	margin-left:15px;
 }
 .landing-section-half.desc-half .sharing-div{
-	padding-top:30px;
+	padding-top:10px;
 }
 .landing-section-half.desc-half .sharing-div .share-text{
 	color:#fff;
-	font-size:28px;
+	font-size:24px;
+	margin-bottom:4px;
 }
 .landing-section-half.desc-half .sharing-div .share-buttons{
 	color:#fff;
@@ -99,7 +100,17 @@ section{
 .landing-section-half.logo-half{
 	background: url(../img/logo.jpeg) no-repeat scroll center center / 80% #fff; 
 }
-
+.event-date{
+	font-variant: small-caps;
+	text-transform: uppercase;
+	font-size:25px;
+	color:#fff;
+}
+.venue{
+	font-style: italic;
+	color:#fff;
+	font-size:20px;
+}
 .speakers-section{
 	background-color:#f7f7f7;
 }
