@@ -1,4 +1,7 @@
 $(document).ready(function(){
+
+console.log("Nintey Achanada Parayunney Inspector Close Cheyada :p ");
+
     $('.load-more').on('click',function(e){
         e.preventDefault();
         $('.day-2').removeClass('hide');
