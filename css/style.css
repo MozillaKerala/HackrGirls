@@ -113,6 +113,12 @@ section{
 	color:#fff;
 	font-size:20px;
 }
+.seats{
+	font-size: 27px;
+	padding-top: 10px;
+	color: #1a1a1a;
+	font-variant: small-caps;
+}
 .speakers-section{
 	background-color:#f7f7f7;
 }
