@@ -82,12 +82,13 @@ section{
 }
 .landing-section-half.desc-half .sharing-div .share-text{
 	color:#fff;
-	font-size:24px;
+	padding-top:10px;
+	font-size:20px;
 	margin-bottom:4px;
 }
 .landing-section-half.desc-half .sharing-div .share-buttons{
 	color:#fff;
-	font-size:40px;
+	font-size:35px;
 }
 .landing-section-half.desc-half .sharing-div .share-buttons a{
 	padding-left:5px;
