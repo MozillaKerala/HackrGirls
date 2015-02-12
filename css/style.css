@@ -322,6 +322,7 @@ footer ul a{
 	}
 	footer .links-outer ul {
 		text-align: center;
+		margin-left:0px;
 	}
 
 	footer .links-outer ul li{
