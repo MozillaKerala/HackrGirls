@@ -269,6 +269,26 @@ footer ul a{
 @media only screen and (min-width: 64.063em) and (max-width: 90em) {
 }
 @media only screen and (min-width: 40.063em) and (max-width: 64em) {
+	section.all-wrap{
+		margin-bottom: 25em;
+	}
+	.landing-section-half.desc-half .title {
+		padding-top: 60px;
+		font-size: 34px;
+	}
+	#cd-timeline{
+		padding:2em 1em;
+	}
+	#cd-timeline:before{
+		left:33px;
+	}
+	.cd-timeline-img span {
+		line-height: 40px;
+		font-size: 1.5em;
+	}
+	.google-form-div iframe{
+		height:2300px !important;
+	}
 }
 @media only screen and (max-width: 40em){
 	.hide-for-small-only{
